@@ -1,0 +1,51 @@
+<Solution>
+  <Folder Name="/01-runtime-async/" />
+  <Folder Name="/01-runtime-async/net10/">
+    <Project Path="01-runtime-async/net10/RuntimeAsyncBefore.csproj" />
+  </Folder>
+  <Folder Name="/01-runtime-async/net11/">
+    <Project Path="01-runtime-async/net11/RuntimeAsyncAfter.csproj" />
+  </Folder>
+  <Folder Name="/02-union-types/" />
+  <Folder Name="/02-union-types/net10/">
+    <Project Path="02-union-types/net10/UnionTypesBefore.csproj" />
+  </Folder>
+  <Folder Name="/02-union-types/net11/">
+    <Project Path="02-union-types/net11/UnionTypesAfter.csproj" />
+  </Folder>
+  <Folder Name="/03-closed-class-hierarchies/" />
+  <Folder Name="/03-closed-class-hierarchies/net10/">
+    <Project Path="03-closed-class-hierarchies/net10/ClosedHierarchiesBefore.csproj" />
+  </Folder>
+  <Folder Name="/03-closed-class-hierarchies/net11/">
+    <Project Path="03-closed-class-hierarchies/net11/ClosedHierarchiesAfter.csproj" />
+  </Folder>
+  <Folder Name="/04-collection-expression-arguments/" />
+  <Folder Name="/04-collection-expression-arguments/net10/">
+    <Project Path="04-collection-expression-arguments/net10/CollectionArgumentsBefore.csproj" />
+  </Folder>
+  <Folder Name="/04-collection-expression-arguments/net11/">
+    <Project Path="04-collection-expression-arguments/net11/CollectionArgumentsAfter.csproj" />
+  </Folder>
+  <Folder Name="/05-extension-indexers/" />
+  <Folder Name="/05-extension-indexers/net10/">
+    <Project Path="05-extension-indexers/net10/ExtensionIndexersBefore.csproj" />
+  </Folder>
+  <Folder Name="/05-extension-indexers/net11/">
+    <Project Path="05-extension-indexers/net11/ExtensionIndexersAfter.csproj" />
+  </Folder>
+  <Folder Name="/06-labeled-break-continue/" />
+  <Folder Name="/06-labeled-break-continue/net10/">
+    <Project Path="06-labeled-break-continue/net10/LabeledLoopsBefore.csproj" />
+  </Folder>
+  <Folder Name="/06-labeled-break-continue/net11/">
+    <Project Path="06-labeled-break-continue/net11/LabeledLoopsAfter.csproj" />
+  </Folder>
+  <Folder Name="/07-extended-layout-support/" />
+  <Folder Name="/07-extended-layout-support/net10/">
+    <Project Path="07-extended-layout-support/net10/ExtendedLayoutBefore.csproj" />
+  </Folder>
+  <Folder Name="/07-extended-layout-support/net11/">
+    <Project Path="07-extended-layout-support/net11/ExtendedLayoutAfter.csproj" />
+  </Folder>
+</Solution>
